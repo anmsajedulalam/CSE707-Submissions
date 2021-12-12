@@ -1,6 +1,6 @@
 CSE707: Distributed Computing Systems
-Concept Map Presentation On Chapter 7
-Chapter 7: Scatter/Gather
+Concept Map Presentation On Chapter 7: Scatter/Gather
+Book Name: Designing Distributed Systems
 
 Group Number: 6
 
