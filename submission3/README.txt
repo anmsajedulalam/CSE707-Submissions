@@ -1,7 +1,12 @@
 Course - CSE707: Distributed Computing Systems
 Submission 3 - Concept Map Presentation On Chapter 7: Scatter/Gather
-Book Name: Designing Distributed Systems: Patterns and Paradigms for Scalable, Reliable Services
-Author Name: Brendan Burns
+
+Name, Author, Edition, year and publisher of the Book:
+Designing Distributed Systems Patterns and Paradigms for Scalable, Reliable Service
+Brendan Burns
+1st edition
+2018
+O'REILLY
 
 Group Number: 6
 
