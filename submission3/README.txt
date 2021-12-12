@@ -1,6 +1,7 @@
-CSE707: Distributed Computing Systems
-Concept Map Presentation On Chapter 7: Scatter/Gather
-Book Name: Designing Distributed Systems
+Course - CSE707: Distributed Computing Systems
+Submission 3 - Concept Map Presentation On Chapter 7: Scatter/Gather
+Book Name: Designing Distributed Systems: Patterns and Paradigms for Scalable, Reliable Services
+Author Name: Brendan Burns
 
 Group Number: 6
 
@@ -19,4 +20,4 @@ Link to the Concept Map PDF: https://drive.google.com/file/d/1sqrkOHtpP_R0df7X6x
 
 Chapter 7 - Scatter/Gather: https://drive.google.com/file/d/1Gtva7gVLd7DduzVzlelH89PBZrsSp9Ej/view?usp=sharing
 
-Link to the book - Designing Distributed Systems:https://drive.google.com/drive/folders/1SOYHzLv46J81wCKt4cAblaPjhWfG_F1J
+Link to the book: https://drive.google.com/drive/folders/1SOYHzLv46J81wCKt4cAblaPjhWfG_F1J
