@@ -20,4 +20,4 @@ Link to the Concept Map PDF: https://drive.google.com/file/d/1sqrkOHtpP_R0df7X6x
 
 Chapter 7 - Scatter/Gather: https://drive.google.com/file/d/1Gtva7gVLd7DduzVzlelH89PBZrsSp9Ej/view?usp=sharing
 
-Link to the book: https://drive.google.com/drive/folders/1SOYHzLv46J81wCKt4cAblaPjhWfG_F1J
+Link to the book: https://drive.google.com/file/d/1K3h4tuPDAERySSvFk33iQjA8g0IAwdey/view?usp=sharing
