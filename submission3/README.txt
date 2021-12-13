@@ -1,5 +1,7 @@
-Course - CSE707: Distributed Computing Systems
+Course Details - CSE707: Distributed Computing Systems
 Submission 3 - Concept Map Presentation On Chapter 7: Scatter/Gather
+
+Book Information:
 
 Name, Author, Edition, year and publisher of the Book:
 Designing Distributed Systems Patterns and Paradigms for Scalable, Reliable Service
