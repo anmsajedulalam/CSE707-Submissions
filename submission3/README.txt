@@ -3,7 +3,7 @@ Submission 3 - Concept Map Presentation On Chapter 7: Scatter/Gather
 
 Book Information:
 
-Name, Author, Edition, year and publisher of the Book:
+Name, Author, Edition, Year and Publisher of the Book:
 Designing Distributed Systems Patterns and Paradigms for Scalable, Reliable Service
 Brendan Burns
 1st edition
