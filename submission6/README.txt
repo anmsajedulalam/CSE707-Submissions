@@ -6,23 +6,28 @@ Completed edx course using email
 sajidcsebu@gmail.com
 https://learning.edx.org/course/course-v1:BerkeleyX+CS198.2x+3T2019
 
-completed youtube video:
+Completed youtube video:
+
 https://youtu.be/7VbL89mKK3M
 https://youtu.be/Y6Ev8GIlbxc
 https://youtu.be/ajjOEltiZm4
 https://youtu.be/pMQzLVK39Kk
 
-completed book:
+Completed book:
+
 https://books.google.com.bd/books?id=5hJNDwAAQBAJ&printsec=frontcover&dq=distributed+system&hl=en&sa=X&ved=2ahUKEwj6wfLqvLv1AhXc7HMBHcRPA8oQ6AF6BAgGEAI#v=onepage&q=distributed%20system&f=false
 https://books.google.com.bd/books?id=3sWoCAAAQBAJ&printsec=frontcover&dq=distributed+system&hl=en&sa=X&redir_esc=y#v=onepage&q=distributed%20system&f=false
 
-did project:
+Did project:
+
 An Architectural Approach to Creating a Cloud Application for Developing Microservices
 
-did something else
+Did something else:
+
 Comparison of Multiple Machine Learning Approaches and Sentiment Analysis in Detection of Spam on Different Types of Data
 
-was active in slack:
+Was active in slack:
+
 https://bucse707fall2021.slack.com/archives/C02GH5UFA5R/p1642523382025000
 https://bucse707fall2021.slack.com/archives/C02GH5UFA5R/p1642523260024600
 https://bucse707fall2021.slack.com/archives/C02GH5UFA5R/p1642512083020600
@@ -61,11 +66,11 @@ https://bucse707fall2021.slack.com/archives/C02HV0JDYP2/p1633698134002300
 https://bucse707fall2021.slack.com/archives/D02H2A5SUP7/p1633697669001700
 https://bucse707fall2021.slack.com/archives/D02H2A5SUP7/p1633697580000700
 
-was active in workshops:
+Was active in workshops:
 
 Attended every workshop attentively in this CSE707 course.
 
-was active in classes:
+Was active in classes:
 
 Attended every class attentively in this CSE707 course.
 
