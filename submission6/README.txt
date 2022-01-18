@@ -63,11 +63,11 @@ https://bucse707fall2021.slack.com/archives/D02H2A5SUP7/p1633697580000700
 
 was active in workshops:
 
-Attended every workshop attentively in this CSE712 course.
+Attended every workshop attentively in this CSE707 course.
 
 was active in classes:
 
-Attended every class attentively in this CSE712 course.
+Attended every class attentively in this CSE707 course.
 
 Submitter:
 21366032 A. N. M. Sajedul Alam
