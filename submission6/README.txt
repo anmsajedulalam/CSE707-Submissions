@@ -61,5 +61,13 @@ https://bucse707fall2021.slack.com/archives/C02HV0JDYP2/p1633698134002300
 https://bucse707fall2021.slack.com/archives/D02H2A5SUP7/p1633697669001700
 https://bucse707fall2021.slack.com/archives/D02H2A5SUP7/p1633697580000700
 
+was active in workshops:
+
+Attended every workshop attentively in this CSE712 course.
+
+was active in classes:
+
+Attended every class attentively in this CSE712 course.
+
 Submitter:
 21366032 A. N. M. Sajedul Alam
